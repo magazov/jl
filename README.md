@@ -21,12 +21,6 @@ A Rust CLI tool that reads JSON log lines from stdin or files and renders them a
 
 ## Installation
 
-### Homebrew (macOS / Linux)
-
-```sh
-brew install genuss/jl/jl
-```
-
 ### mise
 
 ```sh
