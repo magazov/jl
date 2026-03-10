@@ -30,7 +30,7 @@ brew install genuss/jl/jl
 ### mise
 
 ```sh
-mise use -g ubi:genuss/jl
+mise use -g github:genuss/jl
 ```
 
 ### GitHub Releases
